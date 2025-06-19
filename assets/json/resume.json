@@ -25,12 +25,7 @@
     {
       "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Explainable AI",
-        "Generative AI",
-        "Multi-Model Large Language Models",
-        "Reinforcement Learning"
-      ]
+      "keywords": ["Explainable AI", "Generative AI", "Multi-Model Large Language Models", "Reinforcement Learning"]
     }
   ],
   "work": [
@@ -50,7 +45,6 @@
       "startDate": "2024-09",
       "endDate": "2025-05",
       "summary": "Design agentic LLM framework to engage K-12 children in collaborative reasoning."
-
     }
   ],
   "education": [
@@ -64,9 +58,9 @@
       "endDate": "2025-05-16",
       "score": "10",
       "courses": [
-        "<a href=\"https://hornhehhf.github.io/teaching\">Large Language Models</a>", 
-        "<a href=\"https://chriskanan.com/wp-content/uploads/Syllabus-End-to-End-Deep-Learning-Fall-2024-3.pdf\">End-to-End Deep Learning</a>", 
-        "<a href=\"https://www.cs.rochester.edu/~cxu22/t/249S24\">Machine Vision</a>", 
+        "<a href=\"https://hornhehhf.github.io/teaching\">Large Language Models</a>",
+        "<a href=\"https://chriskanan.com/wp-content/uploads/Syllabus-End-to-End-Deep-Learning-Fall-2024-3.pdf\">End-to-End Deep Learning</a>",
+        "<a href=\"https://www.cs.rochester.edu/~cxu22/t/249S24\">Machine Vision</a>",
         "AR/VR Interactive Design",
         "Parallel & Distributed Systems",
         "<a href=\"https://www.cs.rochester.edu/~gildea/446_Fall_2023\">Machine Learning</a>",
@@ -75,13 +69,13 @@
       ]
     },
     {
-     "institution": "Hong Kong Polytechnic University",
+      "institution": "Hong Kong Polytechnic University",
       "location": "Kowloon, Hong Kong",
       "url": "https://polyu.edu.hk",
       "area": "Computing",
       "studyType": "Bachelor of Science",
       "startDate": "2019-09-02",
-      "endDate": "2025-05-30" 
+      "endDate": "2025-05-30"
     }
   ],
   "publications": [
@@ -89,7 +83,7 @@
       "name": "Deep Algorithm Unrolling for Seismic Migration",
       "publisher": "2025 IEEE Conference on Computational Imaging Using Synthetic Apertures",
       "releaseDate": "2025-06",
-      "url": "https://openreview.net/forum?id=hBuAes6QTt", 
+      "url": "https://openreview.net/forum?id=hBuAes6QTt",
       "summary": "We propose the inverse Radon transform Network (iRADNet), a deep learning-based framework that unrolls the Iterative Shrinkage Thresholding Algorithm (ISTA) into a trainable neural network, enabling automatic learning of parameters for solving the inverse Radon transform. Empirical results demonstrate the effectiveness of iRADNet in reconstructing noisy seismic data, showing enhanced accuracy and computational efficiency. Our code and data are publicly available at <a href=\"https://github.com/URseismology/iRADNet\">https://github.com/URseismology/iRADNet</a>."
     }
   ],

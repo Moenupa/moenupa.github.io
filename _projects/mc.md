@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Techbotics Minecraft Server
-description: A minecraft server for playing with friends, focused on create/redstone on Neoforge 1.21.1. 
+description: A minecraft server for playing with friends, focused on create/redstone on Neoforge 1.21.1.
 img: https://gravatar.com/userimage/216014003/04fb5464195940c83f7e65973e4dd564.jpeg
 importance: 3
 category: fun
 ---
 
 We are exploring ways of automation in Minecraft, leveraging Create mod and vanilla redstone. The server is running on Neoforge 1.21.1, with a few quality of life mods to enhance the experience. We have built various farms and fun Create-powered machines. Currently the server is hosted on [OCI](https://www.oracle.com/cloud/), proxied by [playit.gg](https://playit.gg/). Join us on <a href="https://discord.gg/TMGwAKPss6"><i class="fab fa-discord"></i> discord</a> !
-
-
 
 <div class="row">
     <div class="col-md-6 mt-2 mt-md-0">

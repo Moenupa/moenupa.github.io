@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Moenupa/moenupa.github.io.swp",
+    "data-repo": "Moenupa/moenupa.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",

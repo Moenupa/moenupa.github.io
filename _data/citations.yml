@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-05-11'
 papers:
   jfykDwkAAAAJ:d1gkVwhDpl0C:
-    citations: 6
+    citations: 7
     title: 'VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?'
     year: '2025'
   jfykDwkAAAAJ:u-x6o8ySG0sC:
-    citations: 23
+    citations: 24
     title: 'Mllm-cl: Continual learning for multimodal large language models'
     year: '2025'
   jfykDwkAAAAJ:u5HHmVD_uO8C:

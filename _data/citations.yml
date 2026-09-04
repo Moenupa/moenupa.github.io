@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-09-04'
 papers:
   jfykDwkAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'Denser  Better: Limits of On-Policy Self-Distillation for Continual Post-Training'
     year: '2026'
   jfykDwkAAAAJ:d1gkVwhDpl0C:
-    citations: 16
+    citations: 17
     title: 'VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?'
     year: '2025'
   jfykDwkAAAAJ:u-x6o8ySG0sC:
-    citations: 37
+    citations: 38
     title: 'Mllm-cl: Continual learning for multimodal large language models'
     year: '2025'
   jfykDwkAAAAJ:u5HHmVD_uO8C:

@@ -7,7 +7,7 @@
     {
       "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Explainable AI", "Generative AI", "Multi-Model Large Language Models", "Reinforcement Learning"]
+      "keywords": ["Explainable AI", "Generative AI", "Multi-Modal Large Language Models", "Reinforcement Learning"]
     }
   ],
   "work": [
@@ -67,6 +67,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Happy",
+      "publisher": "Arxiv Preprint",
+      "releaseDate": "2025-12",
+      "url": "https://arxiv.org/abs/2512.15649",
+      "summary": "The first comprehensive benchmark specifically designed to evaluate <b>long-context understanding capabilities</b> of Vision-Language Models (VLMs) within the <b>Vision-Text Compression</b> (VTC) paradigm."
+    },
     {
       "name": "VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?",
       "publisher": "Arxiv Preprint",

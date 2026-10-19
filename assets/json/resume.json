@@ -68,13 +68,6 @@
   ],
   "publications": [
     {
-      "name": "Happy",
-      "publisher": "Arxiv Preprint",
-      "releaseDate": "2025-12",
-      "url": "https://arxiv.org/abs/2512.15649",
-      "summary": "The first comprehensive benchmark specifically designed to evaluate <b>long-context understanding capabilities</b> of Vision-Language Models (VLMs) within the <b>Vision-Text Compression</b> (VTC) paradigm."
-    },
-    {
       "name": "VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?",
       "publisher": "Arxiv Preprint",
       "releaseDate": "2025-12",
@@ -96,14 +89,5 @@
       "summary": "We propose the inverse Radon transform Network (iRADNet), a deep learning-based framework that unrolls the Iterative Shrinkage Thresholding Algorithm (ISTA) into a trainable RNN for solving the inverse Radon transform."
     }
   ],
-  "projects": [
-    // {
-    //   "name": "Quantum Computing",
-    //   "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-    //   "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-    //   "startDate": "2018-01-01",
-    //   "endDate": "2018-01-01",
-    //   "url": "https://example.com"
-    // }
-  ]
+  "projects": []
 }

@@ -16,7 +16,7 @@
       "position": "Research Assistant",
       "url": "https://cair-cas.org.hk",
       "startDate": "2025-07",
-      "summary": "Researching MLLMs for , and continual learning."
+      "summary": "Research medical AI, including LLM post-training, agentic systems and interpretability."
     },
     {
       "name": "URseismo, University of Rochester",
@@ -66,28 +66,6 @@
       "endDate": "2025-05-30"
     }
   ],
-  "publications": [
-    {
-      "name": "VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?",
-      "publisher": "Arxiv Preprint",
-      "releaseDate": "2025-12",
-      "url": "https://arxiv.org/abs/2512.15649",
-      "summary": "The first comprehensive benchmark specifically designed to evaluate <b>long-context understanding capabilities</b> of Vision-Language Models (VLMs) within the <b>Vision-Text Compression</b> (VTC) paradigm."
-    },
-    {
-      "name": "MLLM-CL: Continual Learning for Multimodal Large Language Models",
-      "publisher": "Arxiv Preprint",
-      "releaseDate": "2025-10",
-      "url": "https://arxiv.org/abs/2506.05453",
-      "summary": "A benchmark for continual learning in multimodal large language models with IID and non-IID data."
-    },
-    {
-      "name": "Deep Algorithm Unrolling for Seismic Migration",
-      "publisher": "2025 IEEE Conference on Computational Imaging Using Synthetic Apertures",
-      "releaseDate": "2025-06",
-      "url": "https://ieeexplore.ieee.org/document/11091556/",
-      "summary": "We propose the inverse Radon transform Network (iRADNet), a deep learning-based framework that unrolls the Iterative Shrinkage Thresholding Algorithm (ISTA) into a trainable RNN for solving the inverse Radon transform."
-    }
-  ],
+  "publications": [],
   "projects": []
 }

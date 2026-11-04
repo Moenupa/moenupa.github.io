@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: RA at <a href='https://cair-cas.org.hk'>CAIR-CAS</a>. Interested in LLM interpretability & alignment.
+subtitle: RA at <a href='https://cair-cas.org.hk'>CAIR-CAS</a>. Interested in Medical AI and Explainability.
 
 profile:
   align: right
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Meng, currently a research assistant working with [Prof. Fei Zhu](https://impression2805.github.io/) at [Center for AI and Robotics (CAIR)](https://cair-cas.org.hk/). I obtained my Master's in Computer Science from [University of Rochester](https://rochester.edu/) in 2025 and BSc in Computer Science from [Hong Kong PolyU](https://polyu.edu.hk/) in 2023. My research interests include LLM post-training, agent interpretability, AI for health.
+Hi! I am Meng, currently a research assistant working with [Fei Zhu](https://impression2805.github.io/) at [Center for AI and Robotics (CAIR)](https://cair-cas.org.hk/). I obtained my Master's in Computer Science from [University of Rochester](https://rochester.edu/) in 2025, where I was fortunate to work with [Zhen Bai](https://zhenbai.io/) and [Tolulope Olugboji](https://www.sas.rochester.edu/ees/people/faculty/olugboji_tolulope/); before that, I got my BSc in Computing from [Hong Kong PolyU](https://polyu.edu.hk/) in 2023. My research interests span explainable AI and AI for healthcare, including LLM post-training, medical foundation models, agent evaluation & self-evolution, and multi-agent systems.
